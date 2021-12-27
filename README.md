@@ -1,3 +1,7 @@
+Build Pics
+!(Initial Debugging)[./buildpics/debugging.jpg]
+
+
 Credits
 
 https://github.com/Ratfink/micropython-png
