@@ -8,6 +8,8 @@
 ![Initial Debugging](https://github.com/gentijo/ChristmasTree/blob/master/build-pics/Debugging.jpg)
 
 ## Final Product
+![No Power](https://github.com/gentijo/ChristmasTree/blob/master/build-pics/Treefront_nopower.jpeg)
+
 ![Front](https://github.com/gentijo/ChristmasTree/blob/master/build-pics/TreeFront_Painted.jpeg)
 ![Back](https://github.com/gentijo/ChristmasTree/blob/master/build-pics/TreeBack_Wired.jpeg)
 
