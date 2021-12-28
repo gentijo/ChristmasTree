@@ -20,6 +20,8 @@ These may be better https://www.aliexpress.com/item/1005003587670768.html
 ## LCD Panel
 https://www.aliexpress.com/item/1005002525190127.html
 
+## Demo
+![demo](https://github.com/gentijo/ChristmasTree/blob/master/build-pics/demo.mp4)
 
 Credits
 
